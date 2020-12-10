@@ -43,7 +43,6 @@
 		84A66782253E881F00A22484 /* UIImagePickerController+BlocksKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 84A66739253E881F00A22484 /* UIImagePickerController+BlocksKit.h */; };
 		84A66783253E881F00A22484 /* UIActionSheet+BlocksKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 84A6673A253E881F00A22484 /* UIActionSheet+BlocksKit.h */; };
 		84A66784253E881F00A22484 /* UIPopoverController+BlocksKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 84A6673B253E881F00A22484 /* UIPopoverController+BlocksKit.h */; };
-		84A66785253E881F00A22484 /* UIWebView+BlocksKit.m in Sources */ = {isa = PBXBuildFile; fileRef = 84A6673C253E881F00A22484 /* UIWebView+BlocksKit.m */; };
 		84A66786253E881F00A22484 /* UIControl+BlocksKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 84A6673D253E881F00A22484 /* UIControl+BlocksKit.h */; };
 		84A66787253E881F00A22484 /* UITextField+BlocksKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 84A6673E253E881F00A22484 /* UITextField+BlocksKit.h */; };
 		84A66788253E881F00A22484 /* UIBarButtonItem+BlocksKit.m in Sources */ = {isa = PBXBuildFile; fileRef = 84A6673F253E881F00A22484 /* UIBarButtonItem+BlocksKit.m */; };
@@ -55,7 +54,6 @@
 		84A6678E253E881F00A22484 /* UIImagePickerController+BlocksKit.m in Sources */ = {isa = PBXBuildFile; fileRef = 84A66745253E881F00A22484 /* UIImagePickerController+BlocksKit.m */; };
 		84A6678F253E881F00A22484 /* UITextField+BlocksKit.m in Sources */ = {isa = PBXBuildFile; fileRef = 84A66746253E881F00A22484 /* UITextField+BlocksKit.m */; };
 		84A66790253E881F00A22484 /* UIControl+BlocksKit.m in Sources */ = {isa = PBXBuildFile; fileRef = 84A66747253E881F00A22484 /* UIControl+BlocksKit.m */; };
-		84A66791253E881F00A22484 /* UIWebView+BlocksKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 84A66748253E881F00A22484 /* UIWebView+BlocksKit.h */; };
 		84A66792253E881F00A22484 /* UIView+BlocksKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 84A66749253E881F00A22484 /* UIView+BlocksKit.h */; };
 		84A66793253E881F00A22484 /* UIAlertView+BlocksKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 84A6674A253E881F00A22484 /* UIAlertView+BlocksKit.h */; };
 		84A66794253E881F00A22484 /* UIBarButtonItem+BlocksKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 84A6674B253E881F00A22484 /* UIBarButtonItem+BlocksKit.h */; };
@@ -226,7 +224,6 @@
 		84A66739253E881F00A22484 /* UIImagePickerController+BlocksKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImagePickerController+BlocksKit.h"; sourceTree = "<group>"; };
 		84A6673A253E881F00A22484 /* UIActionSheet+BlocksKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIActionSheet+BlocksKit.h"; sourceTree = "<group>"; };
 		84A6673B253E881F00A22484 /* UIPopoverController+BlocksKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIPopoverController+BlocksKit.h"; sourceTree = "<group>"; };
-		84A6673C253E881F00A22484 /* UIWebView+BlocksKit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIWebView+BlocksKit.m"; sourceTree = "<group>"; };
 		84A6673D253E881F00A22484 /* UIControl+BlocksKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIControl+BlocksKit.h"; sourceTree = "<group>"; };
 		84A6673E253E881F00A22484 /* UITextField+BlocksKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UITextField+BlocksKit.h"; sourceTree = "<group>"; };
 		84A6673F253E881F00A22484 /* UIBarButtonItem+BlocksKit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIBarButtonItem+BlocksKit.m"; sourceTree = "<group>"; };
@@ -238,7 +235,6 @@
 		84A66745253E881F00A22484 /* UIImagePickerController+BlocksKit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImagePickerController+BlocksKit.m"; sourceTree = "<group>"; };
 		84A66746253E881F00A22484 /* UITextField+BlocksKit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UITextField+BlocksKit.m"; sourceTree = "<group>"; };
 		84A66747253E881F00A22484 /* UIControl+BlocksKit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIControl+BlocksKit.m"; sourceTree = "<group>"; };
-		84A66748253E881F00A22484 /* UIWebView+BlocksKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIWebView+BlocksKit.h"; sourceTree = "<group>"; };
 		84A66749253E881F00A22484 /* UIView+BlocksKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+BlocksKit.h"; sourceTree = "<group>"; };
 		84A6674A253E881F00A22484 /* UIAlertView+BlocksKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIAlertView+BlocksKit.h"; sourceTree = "<group>"; };
 		84A6674B253E881F00A22484 /* UIBarButtonItem+BlocksKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIBarButtonItem+BlocksKit.h"; sourceTree = "<group>"; };
@@ -428,7 +424,6 @@
 				84A66739253E881F00A22484 /* UIImagePickerController+BlocksKit.h */,
 				84A6673A253E881F00A22484 /* UIActionSheet+BlocksKit.h */,
 				84A6673B253E881F00A22484 /* UIPopoverController+BlocksKit.h */,
-				84A6673C253E881F00A22484 /* UIWebView+BlocksKit.m */,
 				84A6673D253E881F00A22484 /* UIControl+BlocksKit.h */,
 				84A6673E253E881F00A22484 /* UITextField+BlocksKit.h */,
 				84A6673F253E881F00A22484 /* UIBarButtonItem+BlocksKit.m */,
@@ -440,7 +435,6 @@
 				84A66745253E881F00A22484 /* UIImagePickerController+BlocksKit.m */,
 				84A66746253E881F00A22484 /* UITextField+BlocksKit.m */,
 				84A66747253E881F00A22484 /* UIControl+BlocksKit.m */,
-				84A66748253E881F00A22484 /* UIWebView+BlocksKit.h */,
 				84A66749253E881F00A22484 /* UIView+BlocksKit.h */,
 				84A6674A253E881F00A22484 /* UIAlertView+BlocksKit.h */,
 				84A6674B253E881F00A22484 /* UIBarButtonItem+BlocksKit.h */,
@@ -676,7 +670,6 @@
 				84A66796253E881F00A22484 /* MFMessageComposeViewController+BlocksKit.h in Headers */,
 				84A66794253E881F00A22484 /* UIBarButtonItem+BlocksKit.h in Headers */,
 				84A66784253E881F00A22484 /* UIPopoverController+BlocksKit.h in Headers */,
-				84A66791253E881F00A22484 /* UIWebView+BlocksKit.h in Headers */,
 				84A66776253E881F00A22484 /* NSObject+BKBlockObservation.h in Headers */,
 				84A6679D253E881F00A22484 /* A2DynamicDelegate.h in Headers */,
 				84A66782253E881F00A22484 /* UIImagePickerController+BlocksKit.h in Headers */,
@@ -973,7 +966,6 @@
 				84A66797253E881F00A22484 /* MFMailComposeViewController+BlocksKit.m in Sources */,
 				84A667A2253E881F00A22484 /* NSObject+A2BlockDelegate.m in Sources */,
 				84A66778253E881F00A22484 /* NSObject+BKBlockExecution.m in Sources */,
-				84A66785253E881F00A22484 /* UIWebView+BlocksKit.m in Sources */,
 				84A66789253E881F00A22484 /* UIAlertView+BlocksKit.m in Sources */,
 				84A6677B253E881F00A22484 /* NSIndexSet+BlocksKit.m in Sources */,
 				84A66762253E881F00A22484 /* NSDictionary+BlocksKit.m in Sources */,
